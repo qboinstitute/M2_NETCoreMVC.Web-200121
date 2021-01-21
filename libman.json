@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "twitter-bootstrap@4.6.0",
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "library": "datatables.net@1.10.23",
+      "destination": "wwwroot/lib/datatables.net/"
+    }
+  ]
+}
